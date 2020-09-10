@@ -1,0 +1,2 @@
+# dist
+Distribuição de frequência
